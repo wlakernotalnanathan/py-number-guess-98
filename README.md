@@ -6,3 +6,5 @@ A classic number guessing CLI game in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `game_logic.py`
+
+*Initialized by wlakernotalnanathan workspace automation.*
